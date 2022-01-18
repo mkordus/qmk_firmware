@@ -39,3 +39,4 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define MK_C_INTERVAL_1 16
 #define MK_C_OFFSET_2 16 
 #define MK_C_INTERVAL_2 16
+/* #define AUTO_SHIFT_MODIFIERS */
